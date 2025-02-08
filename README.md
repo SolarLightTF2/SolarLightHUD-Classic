@@ -1,5 +1,6 @@
-# SolarLightHUD
-A clean HUD for TF2.
+# SolarLightHUD CLASSIC
+A clean HUD for TF2, albiet unfinished.
+Will eventually be made obsolete through the release of SolarLightHUD REDUX, but this won't happen for a while.
 
 This is a WIP, so expect to see some remnants of the stock HUD and some unfinished elements.
 
@@ -7,11 +8,8 @@ This is a WIP, so expect to see some remnants of the stock HUD and some unfinish
 
 Screenshots here: https://imgur.com/a/fNbgnk2
 
-# Join our Discord!
-
-We have a Discord for bug reporting, feedback and discussion.
-
-Invite link: https://discord.gg/JQTVmFK
+# Note about Discord:
+The Discord link in the HUD is broken and does not work. Even if it did, there are not any HUD channels in the SolarLight Discord anymore. There will eventually be a new Discord for SLHUD REDUX
 
 # Known issues
 
