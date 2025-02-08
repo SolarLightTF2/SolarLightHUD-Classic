@@ -23,7 +23,7 @@ The Discord link in the HUD is broken and does not work. Even if it did, there a
 
 * Menu backgrounds do not support ultrawide
 
-I will fix these issues whenever I have time.
+These will be fixed in REDUX. I don't know if I'll ever go back and fix problems in CLASSIC.
 
 # July 23rd 2018 OPTIONAL update:
 
