@@ -1,8 +1,10 @@
 # SolarLightHUD CLASSIC
 A clean HUD for TF2, albiet unfinished.
-Will eventually be made obsolete through the release of SolarLightHUD REDUX, but this won't happen for a while.
 
-This is a WIP, so expect to see some remnants of the stock HUD and some unfinished elements.
+This was a WIP HUD that got obsoleted by SolarLightHUD REDUX, so expect to see some remnants of the stock HUD and some unfinished elements.
+
+# Looking for REDUX?
+[Link](https://github.com/SolarLightTF2/solarlighthud-redux/)
 
 # What does it look like?
 
