@@ -11,7 +11,7 @@ This was a WIP HUD that got obsoleted by SolarLightHUD REDUX, so expect to see s
 Screenshots here: https://imgur.com/a/fNbgnk2
 
 # Note about Discord:
-The Discord link in the HUD is broken and does not work. Even if it did, there are not any HUD channels in the SolarLight Discord anymore. There will eventually be a new Discord for SLHUD REDUX
+The Discord link in the HUD is broken and does not work.
 
 # Known issues
 
